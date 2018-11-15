@@ -1,4 +1,4 @@
-Sympele File System project for operating system course at Sapienza university 
+Symple File System project for operating system course at Sapienza university 
 
 professor instruction:
   implement a file system interface using binary files
